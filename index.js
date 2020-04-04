@@ -10,7 +10,4 @@ var conversation = `Let's talk about ${topic}.`;
 
 
 
-function sayHi() {
-  console.log(hi, there);
-}
-sayHi();
+
